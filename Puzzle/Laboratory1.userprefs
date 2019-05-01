@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Laboratory1/Laboratory1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratory1/PuzzleState.cs">
+    <Files>
+      <File FileName="Laboratory1/Program.cs" Line="26" Column="14" />
+      <File FileName="Laboratory1/PuzzleSearch.cs" Line="1" Column="1" />
+      <File FileName="Laboratory1/PuzzleState.cs" Line="36" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
