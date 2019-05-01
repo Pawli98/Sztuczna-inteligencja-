@@ -1,0 +1,14 @@
+C:\Users\Kuba\Desktop\PACZKA SEMESTR 4\wdsi\Connect4\Laboratory2 (LordBlaze500)\obj\x86\Debug\Laboratory2.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\PACZKA SEMESTR 4\wdsi\Connect4\Laboratory2 (LordBlaze500)\obj\x86\Debug\Laboratory2.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2 (LordBlaze500)\obj\x86\Debug\Laboratory2.csprojAssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2 (LordBlaze500)\obj\x86\Debug\Laboratory2.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2 (LordBlaze500)\bin\Debug\Laboratory2.exe
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2 (LordBlaze500)\bin\Debug\Laboratory2.pdb
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2 (LordBlaze500)\obj\x86\Debug\Laboratory2.exe
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2 (LordBlaze500)\obj\x86\Debug\Laboratory2.pdb
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2\bin\Debug\Laboratory2.exe
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2\bin\Debug\Laboratory2.pdb
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2\obj\x86\Debug\Laboratory2.csprojAssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2\obj\x86\Debug\Laboratory2.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2\obj\x86\Debug\Laboratory2.exe
+C:\Users\pawel\OneDrive\Pulpit\Connect4\Laboratory2\obj\x86\Debug\Laboratory2.pdb
