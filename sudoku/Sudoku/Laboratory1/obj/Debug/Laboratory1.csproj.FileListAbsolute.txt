@@ -1,0 +1,18 @@
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku (LordBlaze500)\Laboratory1 (LordBlaze500)\obj\Debug\Laboratory1.csprojAssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku (LordBlaze500)\Laboratory1 (LordBlaze500)\obj\Debug\Laboratory1.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku (LordBlaze500)\Laboratory1 (LordBlaze500)\bin\Debug\Laboratory1.exe
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku (LordBlaze500)\Laboratory1 (LordBlaze500)\bin\Debug\Laboratory1.pdb
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku (LordBlaze500)\Laboratory1 (LordBlaze500)\obj\Debug\Laboratory1.exe
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku (LordBlaze500)\Laboratory1 (LordBlaze500)\obj\Debug\Laboratory1.pdb
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku\Laboratory1\bin\Debug\Laboratory1.exe
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku\Laboratory1\bin\Debug\Laboratory1.pdb
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku\Laboratory1\obj\Debug\Laboratory1.csprojAssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku\Laboratory1\obj\Debug\Laboratory1.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku\Laboratory1\obj\Debug\Laboratory1.exe
+C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku\Laboratory1\obj\Debug\Laboratory1.pdb
+C:\Users\pawel\OneDrive\Pulpit\studia semestr4\sztuczna inteligencja\sudoku\Sudoku\Laboratory1\bin\Debug\Laboratory1.exe
+C:\Users\pawel\OneDrive\Pulpit\studia semestr4\sztuczna inteligencja\sudoku\Sudoku\Laboratory1\bin\Debug\Laboratory1.pdb
+C:\Users\pawel\OneDrive\Pulpit\studia semestr4\sztuczna inteligencja\sudoku\Sudoku\Laboratory1\obj\Debug\Laboratory1.csprojAssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\studia semestr4\sztuczna inteligencja\sudoku\Sudoku\Laboratory1\obj\Debug\Laboratory1.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\studia semestr4\sztuczna inteligencja\sudoku\Sudoku\Laboratory1\obj\Debug\Laboratory1.exe
+C:\Users\pawel\OneDrive\Pulpit\studia semestr4\sztuczna inteligencja\sudoku\Sudoku\Laboratory1\obj\Debug\Laboratory1.pdb

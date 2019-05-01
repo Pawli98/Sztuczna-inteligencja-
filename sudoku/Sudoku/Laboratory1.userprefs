@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Laboratory1/Laboratory1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratory1/SudokuSearch.cs">
+    <Files>
+      <File FileName="Laboratory1/Program.cs" Line="19" Column="39" />
+      <File FileName="Laboratory1/SudokuSearch.cs" Line="92" Column="10" />
+      <File FileName="Laboratory1/State.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,3 @@
+﻿1>------ Kompilacja rozpoczęta: Projekt: Laboratory1, Konfiguracja: Debug Any CPU ------
+1>  Laboratory1 -> C:\Users\pawel\OneDrive\Pulpit\sudoku\Sudoku (LordBlaze500)\Laboratory1 (LordBlaze500)\bin\Debug\Laboratory1.exe
+========== Kompilacja: 1 zakończono powodzeniem, 0 zakończono niepowodzeniem, 0 zaktualizowano, 0 pominięto ==========
